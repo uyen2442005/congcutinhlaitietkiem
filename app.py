@@ -19,7 +19,7 @@ def format_money(amount):
 # ==============================
 # TIÊU ĐỀ
 # ==============================
-st.title("💰 TÍNH LÃI GỬI TIẾT KIỆM")
+st.title("💰 TÍNH LÃI GỬI TIẾT KIỆM CỦA BẢO CHÂU")
 st.write("Nhập thông tin tiền gửi để tính tiền lãi và tổng số tiền nhận được.")
 
 st.divider()
